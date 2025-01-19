@@ -1,1 +1,2 @@
 Hi this is a repo created from local PC and pushed to github
+Added feature 1
